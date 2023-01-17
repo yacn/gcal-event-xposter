@@ -8,8 +8,8 @@ const canvasHeight: number = 1080; //540;
 const canvas: Canvas = createCanvas(canvasWidth, canvasHeight);
 const context: CanvasRenderingContext2D = canvas.getContext('2d');
 
-//loadImage("./east-cobb-park.jpg").then(image => {
-loadImage("./rehearse-live.jpg").then(image => {
+//loadImage("./resources/east-cobb-park.jpg").then(image => {
+loadImage("./resources/rehearse-live.jpg").then(image => {
     const hRatio: number = canvas.width / image.width;
     const vRatio: number = canvas.height / image.height;
     const ratio: number = Math.min(hRatio, vRatio);
