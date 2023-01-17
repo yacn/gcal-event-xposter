@@ -1,0 +1,15 @@
+event image size: 1200x628px
+
+https://www.facebook.com/RehearseLive
+- page id: 10002883215675
+
+https://www.facebook.com/pages/East-Cobb-Park/107631537633177
+- place id: 107631537633177
+
+https://www.facebook.com/HTUSAGames
+- place id: 100027992966592
+
+https://www.facebook.com/HobbyTownKennesaw
+- place id:  ??
+
+https://developers.facebook.com/docs/pages/official-events/getting-started/
