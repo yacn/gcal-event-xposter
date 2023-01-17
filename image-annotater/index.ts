@@ -26,7 +26,6 @@ loadImage("./resources/rehearse-live.jpg").then(image => {
     context.font = `${fontSize}px serif`; //'50px serif';
     context.lineWidth = 8;
 
-    //const txt: string = 'Marietta Yo-Yo Club January 2023 East Cobb Park 2023-01-29 3PM - 5PM';
     let x: number = canvas.width / 2;
     let y: number = canvas.height / 3;
     let maxWidth: number = (canvas.width * 0.875);
