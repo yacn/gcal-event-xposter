@@ -1,0 +1,9 @@
+https://developers.facebook.com/docs/instagram-api/guides/content-publishing/
+
+> JPEG is the only image format supported.
+
+will need to convert the png from canvas to JPEG
+- https://www.npmjs.com/package/png-to-jpeg
+- https://stackoverflow.com/questions/43258461/convert-png-to-jpeg-using-pillow
+- use bash/imagemagick
+
